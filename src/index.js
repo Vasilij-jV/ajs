@@ -8,5 +8,3 @@ function info() {
 export default {
     info
 };
-
-info();
